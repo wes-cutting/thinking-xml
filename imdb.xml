@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imdb version="5.6">
+    <movies>
+        <movie>
+            <title>Star Wars</title>
+        </movie>
+        <actor id="1">
+            <name>Hugh Laurie</name>
+        </actor>
+    </movies>
+    <actors>
+        <name value="Tom Hanks"/>
+        <name value="Rob Lowe"/>
+        <name value="Patrick Stewart"/>
+        <actor>
+            <name value="Tom Hanks"/>
+            <name>
+                Tom Hanks
+            </name>
+        </actor>
+    </actors>
+</imdb>
+
+{
+    "Title": "Star Wars"
+    "actors": {
+        "1": "Hugh Laurie"
+    }
+}
